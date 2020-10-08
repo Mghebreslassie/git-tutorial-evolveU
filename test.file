@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 add a word trying to change file while on dev branch
+=======
+creating conflict trying to change file while on dev branch
+>>>>>>> master
 inserting a new line
 changing file from inside the master branch
 lets add a line here
